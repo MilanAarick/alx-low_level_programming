@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * Write a program that prints all possible 
+ * main - Write a program that prints all possible 
  * combinations of two two-digit numbers.
  *
  * Return: Always 0
