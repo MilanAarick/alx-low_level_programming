@@ -1,12 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- * main - Write a program that prints all possible 
- * combinations of two two-digit numbers.
- *
- * Return: Always 0
-*/
+* main - Prints all possible combinations of two two-digit numbers,
+*        ranging from 0-99, separated by a comma followed by a space.
+*
+* Return: Always 0.
+**/
 int main(void)
 {
 int num1, num2;
