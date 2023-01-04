@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "main.h"
 
 int tmp_prime(int n, int i);
 
 /**
- * divisors -  a function that returns 1 if the input integer is a prime number, otherwise return 0.
+ * divisors - number is prime?
  * @n: integer params
  * @m: integer params
  * Return: boolean
