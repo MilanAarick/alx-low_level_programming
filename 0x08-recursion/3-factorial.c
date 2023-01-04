@@ -1,8 +1,8 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * factorial - factoriala function that returns the factorial of a given number.
+ * factorial - factorial n
+ * @n: integer arams
  * Return: recursion
  */
 
