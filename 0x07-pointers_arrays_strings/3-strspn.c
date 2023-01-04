@@ -5,9 +5,8 @@
  * @s: The string to be searched.
  * @accept: The prefix to be measured.
  *
- * Prototype: char *_strchr(char *s, char c);
- * Returns a pointer to the first occurrence of the character c in the string s, 
- * or NULL if the character is not found
+ * Return: The number of bytes in s which
+ * consist only of bytes from accept
  */
 unsigned int _strspn(char *s, char *accept)
 {
